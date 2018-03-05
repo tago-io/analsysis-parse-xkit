@@ -1,3 +1,4 @@
+'use strict';
 const Analysis = require('tago/analysis');
 const Device   = require('tago/device');
 const Utils    = require('tago/utils');
